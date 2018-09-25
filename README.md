@@ -14,4 +14,5 @@ Using the [SWAPI API](https://swapi.co/), fetch the data from the star wars film
 ### Resources
 
 [Express-React-Views](https://github.com/reactjs/express-react-views#express-react-views)
+[Fetch API] (https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
