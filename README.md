@@ -9,4 +9,4 @@ Today we are going to get some practice fetching data from an external api and p
 3. Make sure you can run your server file
 
 ## Instructions
-Using the [SWAPI API](https://swapi.co/)
+Using the [SWAPI API](https://swapi.co/) fetch the data from the star wars films and pass it to a jsx view that displays a list of the film's titles and opening_crawl.
